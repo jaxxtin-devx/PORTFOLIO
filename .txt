@@ -1,0 +1,140 @@
+================================================================================
+JATIN ARYA | BE22B011 | INDIAN INSTITUTE OF TECHNOLOGY MADRAS | LINKEDIN
+================================================================================
+
+--------------------------------------------------------------------------------
+EDUCATION
+--------------------------------------------------------------------------------
+Program                          Institute                                 Year
+Dual Degree in Biological Engg.  Indian Institute of Technology, Madras       2027
+
+
+--------------------------------------------------------------------------------
+COURSE WORK AND SKILLS
+--------------------------------------------------------------------------------
+Coursework:
+- Introduction to Programming
+- Analysis and Interpretation of Biological Data
+- Machine Learning Foundation
+- Series and Matrices
+- Probability, Statistics and Processes
+- Theoretical Biophysics
+- DBMS*
+- Numerical Methods of Biology
+- Biostatistics
+
+Programming Skills and Frameworks:
+C++, Python, SQL, NumPy, Pandas, Scikit-learn, CNN, Transformers, PyTorch, C,
+HTML, CSS, Matplotlib, Seaborn, LangChain, LangGraph, RNN, Power BI, FastAPI,
+Docker, Advanced Excel
+
+--------------------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE AND COMPETITIONS
+--------------------------------------------------------------------------------
+Machine Learning & Data Science Intern, GS Lubricants (May–Jul '25)
+- Built a sales forecasting pipeline on 9,800+ transactions performing EDA,
+  time-series aggregation, and feature engineering using Python.
+- Compared 7 forecasting models and achieved 17.2% MAPE with Linear Regression,
+  outperforming Random Forest, XGBoost, LightGBM.
+- Translated forecasts into inventory, sales, and regional planning insights,
+  evaluating models using MAE, RMSE, MAPE, and R².
+
+Software Development Engineer (SDE) Intern, Bluetooth™ (Aug–Sept '25)
+- Built Data pipeline in Python, integrating REST APIs to fetch Balance Sheet,
+  P&L, and Cash Flow for 100+ NIFTY firms, using Pandas for cleaning.
+- Built ML classification logic to auto-generate "Pros" and "Cons" from metrics
+  based on growth thresholds, reducing manual evaluation effort.
+- Designed a MySQL + SQLAlchemy storage layer to persist results and power
+  real-time financial insights on a live company analysis dashboard.
+
+Data Analyst Intern, CODTECH IT SOLUTIONS (Mar–Apr '26)
+- Analyzed 7,000+ telecom customer records using Python and SQL, identifying
+  contract type and tenure as the strongest churn predictors.
+- Built a logistic regression model in Scikit-learn achieving 80%+ accuracy,
+  identifying and highlighting the top 5 features driving customer churn.
+- Segmented customers by churn risk and usage behavior, proposing targeted
+  retention strategies estimated to effectively cut churn by 15–20%.
+
+--------------------------------------------------------------------------------
+PROJECTS
+--------------------------------------------------------------------------------
+Deep Learning DDP*
+- Developed a PyTorch-based VGG-style CNN for classifying 5,856 chest X-ray
+  images, achieving 86.86% test accuracy.
+  Guide: Prof. Jayanthan (Jul 2026 - Present)
+- Performed EDA and P² on 64×64 X-ray images, including pixel normalization and
+  analysis of 26:74 class imbalance.
+- Tuned learning rate, epochs, and random seeds; evaluated with Precision
+  (83.3%), Recall (98.7%), F1-score (90.4%).
+
+Advanced Anomaly Detection System
+- Achieved 98% R-A* by engineering an ensemble of Autoencoders and Isolation
+  Forest with optimized weighted voting.
+- Delivered <100ms inference latency using neural networks for real-time IoT and
+  cybersecurity anomaly detection.
+- Maintained 92% precision by handling class imbalances, reducing false
+  positives by 30% vs single-model methods.
+
+Hybrid ECG Classifier
+- Benchmarked 3 on a shared CNN backbone, improving macro F1 from 95.8% to
+  99.3% with attention-based modeling.
+- Handled 78:22 class imbalance and sensor noise using adaptive class-weighted
+  loss and stratified balanced sampling.
+- Added Grad-CAM interpretability, thoroughly quantifying a 2.5x latency
+  tradeoff across multiple model variants.
+
+Agentic Research Assistant
+- Built a multi-agent system in LangGraph with router, researcher, writer,
+  critic nodes, and an automated critique loop.
+- Integrated tool-calling (web search, calculator) with a full decision-trace
+  log for transparent agent reasoning process.
+- Achieved 100% deterministic test coverage of routing and retry logic using a
+  mock LLM layer, with zero API cost.
+
+Price Elasticity Engine
+- Built a price elasticity engine on 5,300+ transactions using log-log
+  regression, cutting mean error from 0.96 → 0.09.
+- Built a Demand Simulator with monopoly markup, identifying margin-optimal
+  pricing and -30% overpriced segment.
+- Developed an interactive HTML/JS/Chart.js dashboard for real-time revenue and
+  margin financial data visualization.
+
+--------------------------------------------------------------------------------
+POSITIONS OF RESPONSIBILITY
+--------------------------------------------------------------------------------
+Institute Water Polo Vice-Captain (2025)
+- Led the IIT Madras Water Polo team as Vice-Captain to Gold Medal victory at
+  the 39th Inter IIT Aquatics Meet 2025.
+
+Global Hyperloop Competition (Mar '24 - Apr '24)
+- Won bronze medal at Inter IIT Aquatics Meet 2024 hosted by IIT Indore,
+  showing elite competitive performance.
+
+Safety & Security Coordinator (Jan '2024)
+- Exhibited exceptional leadership and discipline in guiding and motivating the
+  team during training and matches.
+- Managed a ₹15 Lakh+ budget across 5 diverse cross-functional teams, overseeing
+  strategic planning and execution.
+- Conducted in-depth budget analysis using Advanced Excel, identifying
+  efficiencies and delivering 30% cost savings.
+- Coordinated with technical and operations teams to align financial planning
+  with project milestones and timelines.
+- Led a 7-member team in managing safety & security protocols for 7,000+
+  attendees at Saarang 2024, IIT Madras.
+- Designed shift schedules and detailed task allocations for the dedicated
+  safety team to ensure smooth operations.
+- Improved coordination and response efficiency, enabling faster emergency
+  handling in high-footfall public situations.
+
+--------------------------------------------------------------------------------
+EXTRA-CURRICULARS
+--------------------------------------------------------------------------------
+- Secured 1st rank in DSA Hackathon by Skill Development Club & HackerRank,
+  solved 4 C++ problems with all test cases passed in optimal time.
+- Won Bronze Medal in 100m Freestyle and 4x100m Freestyle Relay, in Inter
+  hostel competition contributing to hostel championship points.
+- Volunteered for Safety and Security at Saarang, India's largest student fest,
+  managing crowd control for smooth operations and safety.
+- Participated in Petri Dish Challenge hosted by Biogen Group, successfully
+  conducted during Shaastra technical fest.
+
